@@ -1,2 +1,3 @@
-This website has been hosted on 
-https://batman14-s.github.io/MY-PORTFOLIO-WEBSITE/
+This website has been hosted at
+https://batman14-s.github.io/sweety/
+
